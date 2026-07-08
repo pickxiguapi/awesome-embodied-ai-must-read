@@ -64,6 +64,7 @@ Example:
 - **SIMPLER** [2024][UC San Diego et al.] Evaluating Real-World Robot Manipulation Policies in Simulation · Simulator / Benchmark / Real-to-Sim Evaluation [[paper](https://arxiv.org/abs/2405.05941)] [[project](https://simpler-env.github.io/)]
 - **Colosseum** [2024][University of Washington et al.] THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation · Benchmark / Generalization / Robotic Manipulation [[paper](https://arxiv.org/abs/2402.08191)] [[project](https://robot-colosseum.github.io/)]
 - **LIBERO** [2023][UT Austin et al.] LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning · Benchmark / Lifelong Robot Learning [[paper](https://arxiv.org/abs/2306.03310)] [[project](https://libero-project.github.io/)]
+- **CALVIN** [2021][University of Freiburg] CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks · Benchmark / Language-Conditioned Long-Horizon Manipulation [[paper](https://arxiv.org/abs/2112.03227)] [[project](http://calvin.cs.uni-freiburg.de/)]
 
 ## Vision-Language-Action Models
 
