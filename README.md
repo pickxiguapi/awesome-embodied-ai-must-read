@@ -41,6 +41,7 @@ Example:
 ### 2025
 
 - [2025] A Survey on Vision-Language-Action Models: An Action Tokenization Perspective · PKU-PsiBot · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.01925)] [[project](-)]
+- [2025] An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges · IROOTECH TECHNOLOGY / Sany Group / King's College London / PolyU / TU Darmstadt / University of Agder / Imperial College London · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/Survery/)]
 
 ### 2024
 
