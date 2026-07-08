@@ -76,6 +76,8 @@ Example:
 
 ## Open-Source Projects Worth Studying
 
+- **OpenPI** [2025][Physical Intelligence] OpenPI: Open-source models and code for pi0, pi0-FAST, and pi0.5 · Open-Source VLA Model / Training / Inference [[paper](https://arxiv.org/abs/2410.24164)] [[project](https://github.com/Physical-Intelligence/openpi)]
+
 ## Contribution Rules
 
 Before adding a new entry, ask:
