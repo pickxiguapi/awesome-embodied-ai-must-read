@@ -18,7 +18,7 @@ A paper, project, dataset, or system should satisfy at least one of the followin
 Use this compact format for each entry:
 
 ```markdown
-- **Short Name** [Year][Institution] Title · Type [[paper](paper_url)] [[project](project_url)]
+- **Short Name** [Year][Institution] Title · Type (optional) [[paper](paper_url)] [[project](project_url)]
 
 Example:
 - **SayCan** [2022][Google Research et al.] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances · Agentic Embodied AI [[paper](https://say-can.github.io/assets/palm_saycan.pdf)] [[project](https://say-can.github.io/)]
@@ -38,7 +38,7 @@ Example:
 
 ## Foundations and Surveys
 
-- **VLA Anatomy** [2025][IROOTECH TECHNOLOGY et al.] An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/Survery/)]
+- **VLA Anatomy** [2025][Imperial College London et al.] An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/VLA-Survey-Anatomy/)]
 - **Action Tokenization Survey** [2025][PKU-PsiBot] A Survey on Vision-Language-Action Models: An Action Tokenization Perspective · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.01925)] [[project](-)]
 - **VLA Survey** [2024][CUHK et al.] A Survey on Vision-Language-Action Models for Embodied AI · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2405.14093)] [[project](https://github.com/yueen-ma/Awesome-VLA)]
 
@@ -52,6 +52,14 @@ Example:
 - **Inner Monologue** [2022][Robotics at Google] Inner Monologue: Embodied Reasoning through Planning with Language Models · Embodied Reasoning / Language Planning [[paper](https://arxiv.org/pdf/2207.05608)] [[project](https://innermonologue.github.io/)]
 
 ## Simulators and Benchmarks
+
+- **SIMPLE** [2026][Physical Superintelligence Lab et al.] SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation · Simulator / Benchmark / Humanoid Loco-manipulation [[paper](https://arxiv.org/abs/2606.08278)] [[project](https://github.com/physical-superintelligence-lab/SIMPLE)]
+- **LIBERO-Plus** [2025][Fudan University et al.] LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models · Benchmark / VLA Robustness Analysis [[paper](https://arxiv.org/abs/2510.13626)] [[project](-)]
+- **RoboTwin 2.0** [2025][SJTU et al.] RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation · Data Generator / Benchmark / Bimanual Manipulation [[paper](https://arxiv.org/pdf/2506.18088)] [[project](https://robotwin-platform.github.io/)]
+- **SIMPLER** [2024][UC San Diego et al.] Evaluating Real-World Robot Manipulation Policies in Simulation · Simulator / Benchmark / Real-to-Sim Evaluation [[paper](https://arxiv.org/abs/2405.05941)] [[project](https://simpler-env.github.io/)]
+- **Colosseum** [2024][University of Washington et al.] THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation · Benchmark / Generalization / Robotic Manipulation [[paper](https://arxiv.org/abs/2402.08191)] [[project](https://robot-colosseum.github.io/)]
+- **LIBERO** [2023][UT Austin et al.] LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning · Benchmark / Lifelong Robot Learning [[paper](https://arxiv.org/abs/2306.03310)] [[project](https://libero-project.github.io/)]
+- **RLBench** [2019][Imperial College London] RLBench: The Robot Learning Benchmark & Learning Environment · Benchmark / Learning Environment / Robotic Manipulation [[paper](https://arxiv.org/abs/1909.12271)] [[project](https://github.com/stepjam/RLBench)]
 
 ## Vision-Language-Action Models
 
