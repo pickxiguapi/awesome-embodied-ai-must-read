@@ -76,6 +76,20 @@ Example:
 
 ## World Models
 
+- **GigaWorld-Policy** **[2026]** **[OpenGigaAI et al.]** GigaWorld-Policy: An Efficient Action-Centered World-Action Model · World Action Model / Action-Centered Policy [[paper](https://arxiv.org/pdf/2603.17240)] [[project](https://gigaai-research.github.io/GigaWorld-Policy/)]
+- **Fast-WAM** **[2026]** **[Tsinghua University et al.]** Fast-WAM: Do World Action Models Need Test-time Future Imagination? · World Action Model / Policy Inference [[paper](https://arxiv.org/pdf/2603.16666)] [[project](https://yuantianyuan01.github.io/FastWAM/)]
+- **DiT4DiT** **[2026]** **[Mondo Robotics et al.]** DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control · World Model / Robot Control [[paper](https://arxiv.org/pdf/2603.10448)] [[project](https://dit4dit.github.io/)]
+- **DreamZero** **[2026]** **[NVIDIA et al.]** World Action Models are Zero-shot Policies · World Action Model / Zero-shot Policy [[paper](https://arxiv.org/pdf/2602.15922)] [[project](https://dreamzero0.github.io/)]
+- **LingBot-VA** **[2026]** **[LingBot Team]** Causal World Modeling for Robot Control · World Model / Robot Control [[paper](https://arxiv.org/pdf/2601.21998)] [[project](https://github.com/robbyant/lingbot-va)]
+- **Cosmos Policy** **[2026]** **[NVIDIA]** Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning · World Action Model / Visuomotor Control [[paper](https://arxiv.org/pdf/2601.16163)] [[project](https://research.nvidia.com/labs/dir/cosmos-policy/cosmos_policy_index.html)]
+- **Motus** **[2025]** **[Tsinghua University et al.]** Motus: A Unified Latent Action World Model · Latent Action World Model [[paper](https://arxiv.org/pdf/2512.13030)] [[project](https://motus-robotics.github.io/motus)]
+- **RynnVLA-002** **[2025]** **[Alibaba DAMO Academy]** RynnVLA-002: A Unified Vision-Language-Action and World Model · Unified VLA / World Model [[paper](https://arxiv.org/pdf/2511.17502)] [[project](https://github.com/alibaba-damo-academy/RynnVLA-002)]
+- **WorldVLA** **[2025]** **[Alibaba DAMO Academy]** WorldVLA: Towards Autoregressive Action World Model · Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)]
+- **3DFlowAction** **[2025]** **[3DFlowAction Team]** 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model · Geometric World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/pdf/2506.06199)] [[project](https://github.com/Hoyyyaard/3DFlowAction/)]
+- **LaPA** **[2025]** **[KAIST et al.]** Latent Action Pretraining from Videos · Latent Action Model / Video Pretraining [[paper](https://arxiv.org/pdf/2410.11758)] [[project](https://latentactionpretraining.github.io/)]
+- **VLP** **[2024]** **[Video Language Planning Team]** Video Language Planning · Video World Model / Planning [[paper](https://arxiv.org/pdf/2310.10625)] [[project](https://video-language-planning.github.io/)]
+- **UniPi** **[2023]** **[Google Research]** Learning Universal Policies via Text-Guided Video Generation · Text-Guided Video Policy / World Model [[paper](https://arxiv.org/pdf/2302.00111)] [[project](https://research.google/blog/unipi-learning-universal-policies-via-text-guided-video-generation/)]
+
 ## Data and Teleoperation
 
 ## Systems, Infrastructure, and Deployment
