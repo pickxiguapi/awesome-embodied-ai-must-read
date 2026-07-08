@@ -18,10 +18,10 @@ A paper, project, dataset, or system should satisfy at least one of the followin
 Use this compact format for each entry:
 
 ```markdown
-- [Year] Title · Institution · Type [[paper](paper_url)] [[project](project_url)]
+- [Year][Institution] Title · Type [[paper](paper_url)] [[project](project_url)]
 
 Example:
-- [2024] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances · Google Research / Everyday Robots · Agentic Embodied AI [[paper](https://say-can.github.io/assets/palm_saycan.pdf)] [[project](https://say-can.github.io/)]
+- [2024][Google Research et al.] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances · Agentic Embodied AI [[paper](https://say-can.github.io/assets/palm_saycan.pdf)] [[project](https://say-can.github.io/)]
 
 ```
 
@@ -40,29 +40,29 @@ Example:
 
 ### 2025
 
-- [2025] A Survey on Vision-Language-Action Models: An Action Tokenization Perspective · PKU-PsiBot · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.01925)] [[project](-)]
-- [2025] An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges · IROOTECH TECHNOLOGY / Sany Group / King's College London / PolyU / TU Darmstadt / University of Agder / Imperial College London · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/Survery/)]
+- [2025][PKU-PsiBot] A Survey on Vision-Language-Action Models: An Action Tokenization Perspective · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.01925)] [[project](-)]
+- [2025][IROOTECH TECHNOLOGY et al.] An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/Survery/)]
 
 ### 2024
 
-- [2024] A Survey on Vision-Language-Action Models for Embodied AI · CUHK / Huawei Noah's Ark Lab · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2405.14093)] [[project](https://github.com/yueen-ma/Awesome-VLA)]
+- [2024][CUHK et al.] A Survey on Vision-Language-Action Models for Embodied AI · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2405.14093)] [[project](https://github.com/yueen-ma/Awesome-VLA)]
 
 ## Agentic Embodied AI & Embodied MLLM
 
 ### 2025
 
-- [2025] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning · NVIDIA · Embodied MLLM / Physical Reasoning [[paper](https://arxiv.org/pdf/2503.15558)] [[project](https://github.com/nvidia-cosmos/cosmos-reason1)]
-- [2025] From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation · Tianjin University · Embodied VLM / Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.08548)] [[project](https://embodied-fsd.github.io/)]
-- [2025] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics · Beihang University / Peking University / BAAI · Embodied VLM / Spatial Reasoning [[paper](https://arxiv.org/pdf/2506.04308)] [[project](https://zhoues.github.io/RoboRefer/)]
-- [2025] RoboBrain 2.0 Technical Report · BAAI · Embodied Foundation Model / Generalist Agent [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
+- [2025][NVIDIA] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning · Embodied MLLM / Physical Reasoning [[paper](https://arxiv.org/pdf/2503.15558)] [[project](https://github.com/nvidia-cosmos/cosmos-reason1)]
+- [2025][Tianjin University] From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation · Embodied VLM / Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.08548)] [[project](https://embodied-fsd.github.io/)]
+- [2025][Beihang University et al.] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics · Embodied VLM / Spatial Reasoning [[paper](https://arxiv.org/pdf/2506.04308)] [[project](https://zhoues.github.io/RoboRefer/)]
+- [2025][BAAI] RoboBrain 2.0 Technical Report · Embodied Foundation Model / Generalist Agent [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
 
 ### 2023
 
-- [2023] Code as Policies: Language Model Programs for Embodied Control · Robotics at Google · Language Model Program / Embodied Control [[paper](https://arxiv.org/pdf/2209.07753)] [[project](https://code-as-policies.github.io/)]
+- [2023][Robotics at Google] Code as Policies: Language Model Programs for Embodied Control · Language Model Program / Embodied Control [[paper](https://arxiv.org/pdf/2209.07753)] [[project](https://code-as-policies.github.io/)]
 
 ### 2022
 
-- [2022] Inner Monologue: Embodied Reasoning through Planning with Language Models · Robotics at Google · Embodied Reasoning / Language Planning [[paper](https://arxiv.org/pdf/2207.05608)] [[project](https://innermonologue.github.io/)]
+- [2022][Robotics at Google] Inner Monologue: Embodied Reasoning through Planning with Language Models · Embodied Reasoning / Language Planning [[paper](https://arxiv.org/pdf/2207.05608)] [[project](https://innermonologue.github.io/)]
 
 ## Simulators and Benchmarks
 
