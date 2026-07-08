@@ -34,14 +34,12 @@ Use this compact format for each entry:
 
 ```markdown
 - [Year] Title · Institution · Type [[paper](paper_url)] [[homepage](homepage_url)]
-  - Why it matters: One sentence explaining why this is a must-read.
 ```
 
 Example:
 
 ```markdown
 - [2024] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances · Google Research / Everyday Robots · Robot Learning / Language Grounding [[paper](https://say-can.github.io/assets/palm_saycan.pdf)] [[homepage](https://say-can.github.io/)]
-  - Why it matters: A foundational system showing how language models can be grounded through robotic affordances for real-world task execution.
 ```
 
 ## Categories
