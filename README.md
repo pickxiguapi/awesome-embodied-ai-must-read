@@ -53,11 +53,14 @@ Example:
 
 ## Simulators and Benchmarks
 
+- **MolmoSpace** [2026][Allen AI et al.] MolmoSpace · Public Leaderboard / Embodied Spatial Evaluation [[paper](-)] [[project](-)]
+- **RoboChallenge** [2026][RoboChallenge Team] RoboChallenge · Benchmark / Challenge / Generalist Robot Evaluation [[paper](-)] [[project](-)]
 - **SIMPLE** [2026][USC] SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation · Simulator / Benchmark / Humanoid Loco-manipulation [[paper](https://arxiv.org/abs/2606.08278)] [[project](https://github.com/physical-superintelligence-lab/SIMPLE)]
 - **RoboLab** [2026][NVIDIA et al.] RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies · Simulator / Benchmark / Generalist Robot Policies [[paper](https://arxiv.org/abs/2604.09860)] [[project](https://research.nvidia.com/labs/srl/projects/robolab/index.html)]
 - **EBench** [2026][Shanghai AI Lab et al.] EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies · Benchmark / Generalist Mobile Manipulation Evaluation [[paper](https://arxiv.org/abs/2606.18239)] [[project](https://internrobotics.github.io/EBench-home/)]
 - **RoboCasa365** [2026][UT Austin et al.] RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots · Simulator / Benchmark / Household Mobile Manipulation [[paper](https://arxiv.org/abs/2603.04356)] [[project](https://robocasa.ai/)]
 - **LIBERO-Plus** [2025][Fudan University et al.] LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models · Benchmark / VLA Robustness Analysis [[paper](https://arxiv.org/abs/2510.13626)] [[project](https://sylvestf.github.io/LIBERO-plus/)]
+- **RoboArena** [2025][UC Berkeley et al.] RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies · Benchmark / Real-World Distributed Evaluation [[paper](https://arxiv.org/abs/2506.18123)] [[project](https://robo-arena.github.io/)]
 - **RoboTwin 2.0** [2025][SJTU et al.] RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation · Data Generator / Benchmark / Bimanual Manipulation [[paper](https://arxiv.org/pdf/2506.18088)] [[project](https://robotwin-platform.github.io/)]
 - **PerAct2** [2024][KIT et al.] PerAct2: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks · Benchmark / Bimanual Manipulation [[paper](https://arxiv.org/abs/2407.00278)] [[project](http://bimanual.github.io/)]
 - **RoboCasa** [2024][UT Austin et al.] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots · Simulator / Benchmark / Generalist Robots [[paper](https://arxiv.org/abs/2406.02523)] [[project](https://robocasa.ai/)]
