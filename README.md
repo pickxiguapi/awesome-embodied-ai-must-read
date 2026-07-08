@@ -82,6 +82,22 @@ Before adding a new entry, ask:
 
 If the answer is unclear, leave it out.
 
+## Citation
+
+If you find this repository useful, please cite it as:
+
+```bibtex
+@misc{yuan2026awesomeembodiedaimustread,
+  title        = {awesome-embodied-ai-must-read},
+  author       = {Yifu Yuan},
+  year         = {2026},
+  howpublished = {\url{https://github.com/pickxiguapi/awesome-embodied-ai-must-read}},
+  note         = {A curated list of essential Embodied AI papers, systems, datasets, and engineering references}
+}
+```
+
 ## License
 
-To be added.
+This repository is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Please also cite the original papers, datasets, benchmarks, and projects listed here when using them.
