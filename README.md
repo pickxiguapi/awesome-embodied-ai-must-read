@@ -1,8 +1,8 @@
 # awesome-embodied-ai-must-read
 
-A selective list of must-read papers, systems, datasets, and engineering references for Embodied AI.
+A curated list of essential Embodied AI papers, systems, datasets, and engineering references.
 
-This repository is curated for signal, not coverage. It is not a comprehensive awesome list. Each entry should be worth reading because it shaped the field, introduced a reusable system idea, provided strong engineering lessons, or became a practical reference for building embodied agents.
+Curated for signal, not coverage.
 
 ## Scope
 
