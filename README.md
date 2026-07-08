@@ -38,6 +38,7 @@ Example:
 
 ## Foundations and Surveys
 
+- **WAM Survey** **[2026]** **[Fudan University et al.]** World Action Models: The Next Frontier in Embodied AI · Survey / World Action Models [[paper](https://arxiv.org/abs/2605.12090)] [[project](-)]
 - **VLA Anatomy** **[2025]** **[Imperial College London et al.]** An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/VLA-Survey-Anatomy/)]
 - **Action Tokenization Survey** **[2025]** **[PKU-PsiBot]** A Survey on Vision-Language-Action Models: An Action Tokenization Perspective · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.01925)] [[project](-)]
 - **VLA Survey** **[2024]** **[CUHK et al.]** A Survey on Vision-Language-Action Models for Embodied AI · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2405.14093)] [[project](https://github.com/yueen-ma/Awesome-VLA)]
@@ -58,8 +59,7 @@ Example:
 
 ## Simulators and Benchmarks
 
-- **MolmoSpace** **[2026]** **[Allen AI et al.]** MolmoSpace · Public Leaderboard / Embodied Spatial Evaluation [[paper](-)] [[project](-)]
-- **RoboChallenge** **[2026]** **[RoboChallenge Team]** RoboChallenge · Benchmark / Challenge / Generalist Robot Evaluation [[paper](-)] [[project](-)]
+- **MolmoSpace** **[2026]** **[Allen AI]** MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation · Public Leaderboard / Embodied Spatial Evaluation [[paper](https://arxiv.org/pdf/2602.11337)] [[project](https://allenai.org/blog/molmospaces)]
 - **SIMPLE** **[2026]** **[USC]** SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation · Simulator / Benchmark / Humanoid Loco-manipulation [[paper](https://arxiv.org/abs/2606.08278)] [[project](https://github.com/physical-superintelligence-lab/SIMPLE)]
 - **RoboLab** **[2026]** **[NVIDIA et al.]** RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies · Simulator / Benchmark / Generalist Robot Policies [[paper](https://arxiv.org/abs/2604.09860)] [[project](https://research.nvidia.com/labs/srl/projects/robolab/index.html)]
 - **EBench** **[2026]** **[Shanghai AI Lab et al.]** EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies · Benchmark / Generalist Mobile Manipulation Evaluation [[paper](https://arxiv.org/abs/2606.18239)] [[project](https://internrobotics.github.io/EBench-home/)]
