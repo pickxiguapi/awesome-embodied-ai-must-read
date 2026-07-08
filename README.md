@@ -60,6 +60,21 @@ Example:
 
 ## Agentic Embodied AI & Embodied MLLM
 
+### 2025
+
+- [2025] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning · NVIDIA · Embodied MLLM / Physical Reasoning [[paper](https://arxiv.org/pdf/2503.15558)] [[project](https://github.com/nvidia-cosmos/cosmos-reason1)]
+- [2025] From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation · Tianjin University · Embodied VLM / Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.08548)] [[project](https://embodied-fsd.github.io/)]
+- [2025] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics · Beihang University / Peking University / BAAI · Embodied VLM / Spatial Reasoning [[paper](https://arxiv.org/pdf/2506.04308)] [[project](https://zhoues.github.io/RoboRefer/)]
+- [2025] RoboBrain 2.0 Technical Report · BAAI · Embodied Foundation Model / Generalist Agent [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
+
+### 2023
+
+- [2023] Code as Policies: Language Model Programs for Embodied Control · Robotics at Google · Language Model Program / Embodied Control [[paper](https://arxiv.org/pdf/2209.07753)] [[project](https://code-as-policies.github.io/)]
+
+### 2022
+
+- [2022] Inner Monologue: Embodied Reasoning through Planning with Language Models · Robotics at Google · Embodied Reasoning / Language Planning [[paper](https://arxiv.org/pdf/2207.05608)] [[project](https://innermonologue.github.io/)]
+
 ## Simulators and Benchmarks
 
 ## Vision-Language-Action Models
