@@ -45,6 +45,7 @@ Example:
 ## Categories
 
 - [Foundations and Surveys](#foundations-and-surveys)
+- [Agentic Embodied AI & Embodied MLLM](#agentic-embodied-ai--embodied-mllm)
 - [Simulators and Benchmarks](#simulators-and-benchmarks)
 - [Vision-Language-Action Models](#vision-language-action-models)
 - [Robot Learning and Manipulation](#robot-learning-and-manipulation)
@@ -56,6 +57,8 @@ Example:
 - [Open-Source Projects Worth Studying](#open-source-projects-worth-studying)
 
 ## Foundations and Surveys
+
+## Agentic Embodied AI & Embodied MLLM
 
 ## Simulators and Benchmarks
 
