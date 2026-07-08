@@ -42,6 +42,11 @@ Example:
 - **Action Tokenization Survey** **[2025]** **[PKU-PsiBot]** A Survey on Vision-Language-Action Models: An Action Tokenization Perspective · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.01925)] [[project](-)]
 - **VLA Survey** **[2024]** **[CUHK et al.]** A Survey on Vision-Language-Action Models for Embodied AI · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2405.14093)] [[project](https://github.com/yueen-ma/Awesome-VLA)]
 
+## Vision-Language-Action Models
+
+
+
+
 ## Agentic Embodied AI & Embodied MLLM
 
 - **RoboBrain 2.0** **[2025]** **[BAAI]** RoboBrain 2.0 Technical Report · Embodied Foundation Model / Generalist Agent [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
@@ -66,11 +71,8 @@ Example:
 - **PerAct2** **[2024]** **[KIT et al.]** PerAct2: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks · Benchmark / Bimanual Manipulation [[paper](https://arxiv.org/abs/2407.00278)] [[project](http://bimanual.github.io/)]
 - **RoboCasa** **[2024]** **[UT Austin et al.]** RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots · Simulator / Benchmark / Generalist Robots [[paper](https://arxiv.org/abs/2406.02523)] [[project](https://robocasa.ai/)]
 - **SIMPLER** **[2024]** **[UC San Diego et al.]** Evaluating Real-World Robot Manipulation Policies in Simulation · Simulator / Benchmark / Real-to-Sim Evaluation [[paper](https://arxiv.org/abs/2405.05941)] [[project](https://simpler-env.github.io/)]
-- **Colosseum** **[2024]** **[University of Washington et al.]** THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation · Benchmark / Generalization / Robotic Manipulation [[paper](https://arxiv.org/abs/2402.08191)] [[project](https://robot-colosseum.github.io/)]
 - **LIBERO** **[2023]** **[UT Austin et al.]** LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning · Benchmark / Lifelong Robot Learning [[paper](https://arxiv.org/abs/2306.03310)] [[project](https://libero-project.github.io/)]
 - **CALVIN** **[2021]** **[University of Freiburg]** CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks · Benchmark / Language-Conditioned Long-Horizon Manipulation [[paper](https://arxiv.org/abs/2112.03227)] [[project](http://calvin.cs.uni-freiburg.de/)]
-
-## Vision-Language-Action Models
 
 ## World Models
 
@@ -81,7 +83,7 @@ Example:
 ## Open-Source Projects Worth Studying
 
 - **StarVLA** **[2026]** **[StarVLA Community]** StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing · VLA Framework / Training & Evaluation [[paper](https://arxiv.org/abs/2604.05014)] [[project](https://github.com/starVLA/starVLA)]
-- **RLinf-USER** **[2026]** **[Tsinghua University et al.]** RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI · Real-World Online Learning System [[paper](https://arxiv.org/abs/2602.07837)] [[project](-)]
+- **RLinf** **[2026]** **[Tsinghua University et al.]** RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI · Real-World Online Learning System [[paper](https://arxiv.org/abs/2602.07837)] [[project](https://github.com/RLinf/RLinf)]
 - **LeRobot** **[2026]** **[Hugging Face]** LeRobot: An Open-Source Library for End-to-End Robot Learning · Robot Learning Library / Data / Training / Deployment [[paper](https://arxiv.org/abs/2602.22818)] [[project](https://github.com/huggingface/lerobot)]
 - **GR00T N1** **[2025]** **[NVIDIA]** GR00T N1: An Open Foundation Model for Generalist Humanoid Robots · Open-Source Humanoid Foundation Model / VLA [[paper](https://arxiv.org/abs/2503.14734)] [[project](https://github.com/NVIDIA/Isaac-GR00T)]
 - **OpenPI** **[2025]** **[Physical Intelligence]** OpenPI: Open-source models and code for pi0, pi0-FAST, and pi0.5 · Open-Source VLA Model / Training / Inference [[paper](https://arxiv.org/abs/2410.24164)] [[project](https://github.com/Physical-Intelligence/openpi)]
