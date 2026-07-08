@@ -76,7 +76,11 @@ Example:
 
 ## Open-Source Projects Worth Studying
 
+- **StarVLA** [2026][StarVLA Community] StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing · VLA Framework / Training & Evaluation [[paper](https://arxiv.org/abs/2604.05014)] [[project](https://github.com/starVLA/starVLA)]
+- **RLinf-USER** [2026][Tsinghua University et al.] RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI · Real-World Online Learning System [[paper](https://arxiv.org/abs/2602.07837)] [[project](-)]
+- **LeRobot** [2026][Hugging Face] LeRobot: An Open-Source Library for End-to-End Robot Learning · Robot Learning Library / Data / Training / Deployment [[paper](https://arxiv.org/abs/2602.22818)] [[project](https://github.com/huggingface/lerobot)]
 - **OpenPI** [2025][Physical Intelligence] OpenPI: Open-source models and code for pi0, pi0-FAST, and pi0.5 · Open-Source VLA Model / Training / Inference [[paper](https://arxiv.org/abs/2410.24164)] [[project](https://github.com/Physical-Intelligence/openpi)]
+- **OpenVLA** [2024][Stanford et al.] OpenVLA: An Open-Source Vision-Language-Action Model · Open-Source VLA Model [[paper](https://arxiv.org/abs/2406.09246)] [[project](https://github.com/openvla/openvla)]
 
 ## Contribution Rules
 
