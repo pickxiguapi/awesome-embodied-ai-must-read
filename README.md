@@ -131,6 +131,8 @@ Example:
 
 ## Data and Teleoperation
 
+- **EgoScale** **[2026]** **[NVIDIA]** EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data · Egocentric Human Data / Dexterous Manipulation / Cross-Embodiment Transfer [[paper](https://arxiv.org/abs/2602.16710)] [[project](https://research.nvidia.com/labs/gear/egoscale/)]
+
 ## Systems, Infrastructure, and Deployment
 
 ## Open-Source Projects Worth Studying
