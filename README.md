@@ -177,6 +177,7 @@ Example:
 - **LingBot-VA** **[LingBot Team]** Causal World Modeling for Robot Control · World Model / Robot Control [[paper](https://arxiv.org/pdf/2601.21998)] [[project](https://github.com/robbyant/lingbot-va)]
 - **Cosmos Policy** **[NVIDIA]** Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning · World Action Model / Visuomotor Control [[paper](https://arxiv.org/pdf/2601.16163)] [[project](https://research.nvidia.com/labs/dir/cosmos-policy/cosmos_policy_index.html)]
 - **PointWorld** **[Stanford]** PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation · 3D World Model / Robotic Manipulation [[paper](https://arxiv.org/abs/2601.03782)] [[project](https://point-world.github.io/)]
+- **InternVLA-A1** **[Shanghai AI Lab]** InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation · World Model / VLA / Visual Foresight [[paper](https://arxiv.org/abs/2601.02456)] [[project](https://internrobotics.github.io/internvla-a1.github.io/)]
 
 ### 2025
 
