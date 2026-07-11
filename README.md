@@ -168,6 +168,7 @@ Example:
 ### 2026
 
 - **μ0** **[University of Maryland]** μ0: A Scalable 3D Interaction-Trace World Model · 3D Interaction-Trace World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/abs/2606.13769)] [[project](-)]
+- **MotuBrain** **[MotuBrain Team]** MotuBrain: An Advanced World Action Model for Robot Control · World Action Model / Robot Control / Real-World Deployment [[paper](https://arxiv.org/abs/2604.27792)] [[project](-)]
 - **GigaWorld-Policy** **[OpenGigaAI]** GigaWorld-Policy: An Efficient Action-Centered World-Action Model · World Action Model / Action-Centered Policy [[paper](https://arxiv.org/pdf/2603.17240)] [[project](https://gigaai-research.github.io/GigaWorld-Policy/)]
 - **Fast-WAM** **[Tsinghua University]** Fast-WAM: Do World Action Models Need Test-time Future Imagination? · World Action Model / Policy Inference [[paper](https://arxiv.org/pdf/2603.16666)] [[project](https://yuantianyuan01.github.io/FastWAM/)]
 - **DiT4DiT** **[Mondo Robotics]** DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control · World Model / Robot Control [[paper](https://arxiv.org/pdf/2603.10448)] [[project](https://dit4dit.github.io/)]
