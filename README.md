@@ -57,6 +57,7 @@ Example:
 
 ### 2026
 
+- **InternVLA-A1.5** **[Shanghai AI Lab]** InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization · VLA / Latent Foresight / Compositional Generalization [[paper](https://arxiv.org/abs/2607.04988)] [[project](-)]
 - **Hy-Embodied-0.5-VLA** **[Tencent]** Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack · VLA / Real-World Robot Learning Stack [[paper](https://arxiv.org/pdf/2606.14409v1)] [[project](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla)]
 - **Qwen-VLA** **[Qwen]** Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments · Unified VLA / Cross-Embodiment [[paper](https://arxiv.org/pdf/2605.30280)] [[project](https://github.com/QwenLM/Qwen-VLA)]
 - **MolmoAct2** **[Allen AI]** MolmoAct2: Action Reasoning Models for Real-world Deployment · Action Reasoning Model / Real-World Deployment [[paper](https://arxiv.org/abs/2605.02881)] [[project](https://allenai.org/blog/molmoact2)]
