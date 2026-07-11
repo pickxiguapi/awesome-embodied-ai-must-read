@@ -152,6 +152,7 @@ Example:
 ### 2026
 
 - **ACE-Brain-0.5** **[ACE-Brain Team]** ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI · Embodied Foundation Model / Physical Agentic AI / Closed-Loop Reasoning [[paper](https://arxiv.org/abs/2607.04426)] [[project](-)]
+- **Embodied-R1.5** **[Tencent Hunyuan]** Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models · Embodied Foundation Model / Physical Intelligence / General Robotic Manipulation [[paper](https://arxiv.org/abs/2606.11324)] [[project](-)]
 - **Cosmos 3** **[NVIDIA]** Cosmos 3: Omnimodal World Models for Physical AI · Omnimodal Physical AI / World Model / Embodied Reasoning [[paper](https://arxiv.org/abs/2606.02800)] [[project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)]
 - **DepthVLM** **[DepthVLM Team]** Unlocking Dense Metric Depth Estimation in VLMs · VLM / Dense Metric Depth / 3D Spatial Understanding [[paper](https://arxiv.org/abs/2605.15876)] [[project](-)]
 - **HY-Embodied-0.5** **[Tencent]** HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents · Embodied Foundation Model / Real-World Agent / Spatial-Temporal Reasoning [[paper](https://arxiv.org/abs/2604.07430)] [[project](https://github.com/Tencent-Hunyuan/HY-Embodied)]
