@@ -29,10 +29,10 @@ Example:
 ## Categories
 
 - [Foundations and Surveys](#foundations-and-surveys)
-- [Agentic Embodied AI & Embodied MLLM](#agentic-embodied-ai--embodied-mllm)
-- [Simulators and Benchmarks](#simulators-and-benchmarks)
 - [Vision-Language-Action Models](#vision-language-action-models)
 - [World Models](#world-models)
+- [Agentic Embodied AI & Embodied MLLM](#agentic-embodied-ai--embodied-mllm)
+- [Simulators and Benchmarks](#simulators-and-benchmarks)
 - [Data and Teleoperation](#data-and-teleoperation)
 - [Systems, Infrastructure, and Deployment](#systems-infrastructure-and-deployment)
 - [Open-Source Projects Worth Studying](#open-source-projects-worth-studying)
@@ -41,7 +41,7 @@ Example:
 
 ### 2026
 
-- **World Model Survey** **[Bohan Hou]** World Model for Robot Learning: A Comprehensive Survey · Survey / World Models for Robot Learning [[paper](https://arxiv.org/pdf/2605.00080)] [[project](-)]
+- **World Model Survey** **[NTU]** World Model for Robot Learning: A Comprehensive Survey · Survey / World Models for Robot Learning [[paper](https://arxiv.org/pdf/2605.00080)] [[project](https://ntumars.github.io/wm-robot-survey/)]
 - **WAM Survey** **[Fudan University]** World Action Models: The Next Frontier in Embodied AI · Survey / World Action Models [[paper](https://arxiv.org/abs/2605.12090)] [[project](-)]
 
 ### 2025
@@ -58,36 +58,35 @@ Example:
 ### 2026
 
 - **LingBot-VLA 2.0** **[Ant Group]** From Foundation to Application: Improving VLA Models in Practice · VLA / Real-World Application / Cross-Embodiment [[paper](https://arxiv.org/abs/2607.06403)] [[project](https://technology.robbyant.com/lingbot-vla-v2)]
-- **InternVLA-A1.5** **[Shanghai AI Lab]** InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization · VLA / Latent Foresight / Compositional Generalization [[paper](https://arxiv.org/abs/2607.04988)] [[project](-)]
-- **Hy-Embodied-0.5-VLA** **[Tencent]** Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack · VLA / Real-World Robot Learning Stack [[paper](https://arxiv.org/pdf/2606.14409v1)] [[project](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla)]
+- **InternVLA-A1.5** **[Shanghai AI Lab]** InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization · VLA / Latent Foresight / Compositional Generalization [[paper](https://arxiv.org/abs/2607.04988)] [[project](https://internrobotics.github.io/internvla-a15.github.io/)]
+- **Hy-Embodied-0.5-VLA** **[Tencent]** Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack · VLA / UMI [[paper](https://arxiv.org/pdf/2606.14409v1)] [[project](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla)]
 - **Qwen-RobotManip** **[Qwen]** Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models · VLA / Robotic Manipulation Foundation Model [[paper](https://arxiv.org/abs/2606.17846)] [[project](-)]
 - **Qwen-VLA** **[Qwen]** Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments · Unified VLA / Cross-Embodiment [[paper](https://arxiv.org/pdf/2605.30280)] [[project](https://github.com/QwenLM/Qwen-VLA)]
 - **MolmoAct2** **[Allen AI]** MolmoAct2: Action Reasoning Models for Real-world Deployment · Action Reasoning Model / Real-World Deployment [[paper](https://arxiv.org/abs/2605.02881)] [[project](https://allenai.org/blog/molmoact2)]
+- **Wall-OSS-0.5** **[X Square Robot]** Wall-OSS-0.5 Technical Report: Pretrain Once, Act Anywhere · Open-Source VLA / Pretraining / Real-Robot Evaluation [[paper](https://arxiv.org/abs/2605.30877)] [[project](https://x2robot.com/en/research/68bc2cde8497d7f238dde690)]
+- **Galaxea G0.5** **[Galaxea]** Galaxea G0.5 Technical Report · Zero shot VLA [[paper](https://opengalaxea.github.io/G05/Galaxea_G0_5.pdf)] [[project](https://opengalaxea.github.io/G05/)]
 - **GENE-26.5** **[Genesis]** GENE-26.5: Advancing Robotic Manipulation to Human Level · Embodied Foundation Model / Robotic Manipulation [[paper](-)] [[project](https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level)]
-- **GEN-1** **[Generalist AI]** GEN-1: Scaling Embodied Foundation Models to Mastery · Embodied Foundation Model / Physical Interaction [[paper](-)] [[project](https://generalistai.com/blog/apr-02-2026-GEN-1)]
-- **A1** **[A1 Team]** A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model · Efficient VLA / Adaptive Inference [[paper](https://arxiv.org/abs/2604.05672)] [[project](-)]
+- **GEN-1** **[Generalist AI]** GEN-1: Scaling Embodied Foundation Models to Mastery · Embodied Foundation Model / Robotic Manipulation [[paper](-)] [[project](https://generalistai.com/blog/apr-02-2026-GEN-1)]
 - **Xiaomi-Robotics-0** **[Xiaomi]** Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution · Open-Source VLA / Real-Time Execution [[paper](https://arxiv.org/abs/2602.12684)] [[project](https://xiaomi-robotics-0.github.io/)]
 - **ABot-M0** **[AMap Group]** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning · VLA / Action Manifold Learning [[paper](https://arxiv.org/pdf/2602.11236)] [[project](https://amap-cvlab.github.io/ABot-Manipulation/)]
 - **RDT2** **[Tsinghua University]** RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization · VLA / Cross-Embodiment Generalization [[paper](https://arxiv.org/pdf/2602.03310)] [[project](https://rdt-robotics.github.io/rdt2/)]
 - **GR00T N1.7** **[NVIDIA]** GR00T N1.7 · Humanoid Foundation Model / VLA [[paper](-)] [[project](https://huggingface.co/nvidia/GR00T-N1.7-3B)]
-- **MEM** **[Physical Intelligence]** MEM: Multi-Scale Embodied Memory for Vision Language Action Models · VLA / Multi-Scale Embodied Memory [[paper](https://arxiv.org/abs/2603.03596)] [[project](https://www.pi.website/research/mem)]
+- **MEM** **[Physical Intelligence]** MEM: Multi-Scale Embodied Memory for Vision Language Action Models · VLA / Multi-Scale Embodied Memory [[paper](https://arxiv.org/abs/2603.03596)] [[project](https://www.pi.website/research/memory)]
 - **LingBot-VLA** **[Ant Group]** A Pragmatic VLA Foundation Model · VLA / Real-World Robot Learning [[paper](https://arxiv.org/pdf/2601.18692)] [[project](https://technology.robbyant.com/lingbot-vla/)]
 - **Being-H0.5** **[BeingBeyond]** Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization · VLA / Human-Centric Robot Learning [[paper](https://arxiv.org/pdf/2601.12993)] [[project](https://research.beingbeyond.com/being-h05)]
-- **BagelVLA** **[BagelVLA Team]** BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation · VLA / Long-Horizon Manipulation [[paper](https://arxiv.org/abs/2602.09849)] [[project](-)]
+- **BagelVLA** **[ByteDance]** BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation · VLA / Long-Horizon Manipulation [[paper](https://arxiv.org/abs/2602.09849)] [[project](https://cladernyjorn.github.io/BagelVLA.github.io/)]
 
 ### 2025
 
 - **Human-to-Robot Transfer** **[Physical Intelligence / Georgia Tech]** Emergence of Human to Robot Transfer in Vision-Language-Action Models · VLA / Human-to-Robot Transfer / Cross-Embodiment [[paper](https://www.pi.website/download/human_to_robot.pdf)] [[project](https://www.pi.website/research/human_to_robot)]
-- **RynnVLA-002** **[Alibaba DAMO Academy]** RynnVLA-002: A Unified Vision-Language-Action and World Model · Unified VLA / World Model [[paper](https://arxiv.org/pdf/2511.17502)] [[project](https://github.com/alibaba-damo-academy/RynnVLA-002)]
-- **Evo-1** **[Shanghai Jiao Tong University]** Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment · Lightweight VLA / Efficient Deployment [[paper](https://arxiv.org/abs/2511.04555)] [[project](https://github.com/MINT-SJTU/Evo-1)]
+- **UniVLA** **[BAAI]** UniVLA: Unified Vision-Language-Action Model · Unified VLA / Interleaved Token Modeling [[paper](https://arxiv.org/abs/2506.19850)] [[project](https://github.com/baaivision/UniVLA)]
 - **X-VLA** **[Tsinghua University]** X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model · Cross-Embodiment VLA [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)]
 - **InternVLA-M1** **[Shanghai AI Lab]** InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy · Spatially Guided VLA [[paper](https://arxiv.org/pdf/2510.13778)] [[project](https://internrobotics.github.io/internvla-m1.github.io/)]
 - **Spatial Forcing** **[OpenHelix Team]** Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model · Spatial Alignment / VLA [[paper](https://arxiv.org/pdf/2510.12276)] [[project](https://spatial-forcing.github.io/)]
 - **VLA-0** **[NVIDIA]** VLA-0: Building State-of-the-Art VLAs with Zero Modification · VLA / Model Adaptation [[paper](https://arxiv.org/pdf/2510.13054)] [[project](https://vla0.github.io/)]
 - **EmbodiedOneVision** **[EO Robotics]** EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control · Interleaved VLA Pretraining [[paper](https://arxiv.org/pdf/2508.21112)] [[project](https://eo-robotics.ai/eo-1)]
 - **MolmoAct** **[Allen AI]** MolmoAct: Action Reasoning Models that can Reason in Space · Action Reasoning Model / Spatial Reasoning [[paper](https://arxiv.org/abs/2508.07917)] [[project](https://allenai.org/blog/molmoact)]
-- **UniVLA** **[BAAI]** UniVLA: Unified Vision-Language-Action Model · Unified VLA / Interleaved Token Modeling [[paper](https://arxiv.org/abs/2506.19850)] [[project](https://github.com/baaivision/UniVLA)]
-- **Action Chunking Flow** **[Physical Intelligence]** Real-Time Execution of Action Chunking Flow Policies · VLA / Real-Time Flow Policy [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
+- **RTC** **[Physical Intelligence]** Real-Time Execution of Action Chunking Flow Policies · VLA / Real-Time Flow Policy [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
 - **SmolVLA** **[Hugging Face]** SmolVLA: A Small Vision-Language-Action Model for Efficient Robot Learning · Compact VLA / Efficient Robot Learning [[paper](https://huggingface.co/blog/smolvla)] [[project](https://github.com/huggingface/lerobot)]
 - **Knowledge Insulation** **[Physical Intelligence]** Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better · Efficient VLA Training / Generalization [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://pi.website/research/knowledge_insulation)]
 - **π0.5** **[Physical Intelligence]** π0.5: A Vision-Language-Action Model with Open-World Generalization · VLA / Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)]
@@ -95,8 +94,7 @@ Example:
 - **OpenVLA-OFT** **[Stanford]** Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success · VLA Fine-Tuning / Efficient Adaptation [[paper](https://arxiv.org/abs/2502.19645)] [[project](https://openvla-oft.github.io/)]
 - **Hi Robot** **[Physical Intelligence]** Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models · Hierarchical VLA / Instruction Following [[paper](https://arxiv.org/pdf/2502.19417)] [[project](https://www.pi.website/research/hirobot)]
 - **Gemini Robotics** **[Google DeepMind]** Gemini Robotics: Bringing AI into the Physical World · Robotics Foundation Model / VLA [[paper](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)] [[project](-)]
-- **FAST** **[Physical Intelligence]** FAST: Efficient Action Tokenization for Vision-Language-Action Models · Action Tokenization / VLA [[paper](https://arxiv.org/pdf/2501.09747)] [[project](-)]
-- **LLaVA-VLA** **[OpenHelix Team]** LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model · VLA [[paper](-)] [[project](https://github.com/OpenHelix-Team/LLaVA-VLA)]
+- **FAST** **[Physical Intelligence]** FAST: Efficient Action Tokenization for Vision-Language-Action Models · Action Tokenization / VLA [[paper](https://arxiv.org/pdf/2501.09747)] [[project](https://www.pi.website/research/fast)]
 - **GEN-0** **[Generalist AI]** Embodied Foundation Models That Scale with Physical Interaction · Embodied Foundation Model / Physical Interaction [[paper](-)] [[project](https://generalistai.com/blog/nov-04-2025-GEN-0)]
 - **Wall-OSS** **[X Square Robot]** Wall-OSS: Igniting VLMs toward the Embodied Space · Embodied VLM / VLA [[paper](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)] [[project](https://x2robot.com/en/research/68bc2cde8497d7f238dde690)]
 
@@ -105,14 +103,49 @@ Example:
 - **CogACT** **[Microsoft Research]** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation · Foundational VLA / Manipulation [[paper](https://www.arxiv.org/pdf/2411.19650)] [[project](https://cogact.github.io/)]
 - **π0** **[Physical Intelligence]** π0: A Vision-Language-Action Flow Model for General Robot Control · VLA Flow Model / General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)] [[project](https://www.physicalintelligence.company/blog/pi0)]
 - **RDT-1B** **[RDT Team]** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation · Diffusion Foundation Model / Bimanual Manipulation [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
-- **MiniVLA** **[Stanford ILIAD]** MiniVLA: A Better VLA with a Smaller Footprint · Compact VLA [[paper](https://ai.stanford.edu/blog/minivla/)] [[project](https://github.com/Stanford-ILIAD/openvla-mini)]
-- **Embodied CoT** **[Stanford]** Robotic Control via Embodied Chain-of-Thought Reasoning · VLA / Embodied Reasoning [[paper](https://arxiv.org/pdf/2407.08693)] [[project](-)]
 - **OpenVLA** **[Stanford]** OpenVLA: An Open-Source Vision-Language-Action Model · Open-Source VLA [[paper](https://arxiv.org/pdf/2406.09246)] [[project](https://openvla.github.io/)]
 - **Octo** **[UC Berkeley]** Octo: An Open-Source Generalist Robot Policy · Generalist Robot Policy / VLA [[paper](https://arxiv.org/pdf/2405.12213)] [[project](https://octo-models.github.io/)]
 
 ### 2023
 
 - **RT-2** **[Google DeepMind]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control · VLA / Robotic Control [[paper](https://arxiv.org/pdf/2307.15818)] [[project](https://robotics-transformer2.github.io/)]
+
+## World Models
+
+### 2026
+
+- **LingBot-VA 2.0** **[Ant Group]** Native Video-Action Pretraining for Generalizable Robot Control · Video-Action Foundation Model / World Action Model / Robot Control [[paper](https://arxiv.org/abs/2607.08639)] [[project](-)]
+- **EgoWAM** **[Georgia Tech]** EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data · World Action Model / Egocentric Human Data / Human-to-Robot Transfer [[paper](https://arxiv.org/abs/2607.08436)] [[project](https://gatech-rl2.github.io/egowam.github.io/)]
+- **MolmoMotion** **[Allen AI / UW]** MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction · 3D Motion Forecasting / World Model / Robot Manipulation Transfer [[paper](https://arxiv.org/abs/2606.18558)] [[project](-)]
+- **μ0** **[University of Maryland]** μ0: A Scalable 3D Interaction-Trace World Model · 3D Interaction-Trace World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/abs/2606.13769)] [[project](-)]
+- **WALL-WM** **[X Square Robot]** WALL-WM: Carving World Action Modeling at the Event Joints · World Action Model / Event-Grounded VLA Pretraining [[paper](https://arxiv.org/abs/2606.01955)] [[project](-)]
+- **Being-H0.7** **[BeingBeyond]** Being-H0.7: A Latent World-Action Model from Egocentric Videos · Latent World-Action Model / Egocentric Video / Robot Control [[paper](https://arxiv.org/abs/2605.00078)] [[project](-)]
+- **MotuBrain** **[MotuBrain Team]** MotuBrain: An Advanced World Action Model for Robot Control · World Action Model / Robot Control / Real-World Deployment [[paper](https://arxiv.org/abs/2604.27792)] [[project](-)]
+- **GigaWorld-Policy** **[OpenGigaAI]** GigaWorld-Policy: An Efficient Action-Centered World-Action Model · World Action Model / Action-Centered Policy [[paper](https://arxiv.org/pdf/2603.17240)] [[project](https://gigaai-research.github.io/GigaWorld-Policy/)]
+- **Fast-WAM** **[Tsinghua University]** Fast-WAM: Do World Action Models Need Test-time Future Imagination? · World Action Model / Policy Inference [[paper](https://arxiv.org/pdf/2603.16666)] [[project](https://yuantianyuan01.github.io/FastWAM/)]
+- **BagelVLA** **[ByteDance]** BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation · VLA / Long-Horizon Manipulation [[paper](https://arxiv.org/abs/2602.09849)] [[project](https://cladernyjorn.github.io/BagelVLA.github.io/)]
+- **DreamZero** **[NVIDIA]** World Action Models are Zero-shot Policies · World Action Model / Zero-shot Policy [[paper](https://arxiv.org/pdf/2602.15922)] [[project](https://dreamzero0.github.io/)]
+- **LingBot-VA** **[LingBot Team]** Causal World Modeling for Robot Control · World Model / Robot Control [[paper](https://arxiv.org/pdf/2601.21998)] [[project](https://github.com/robbyant/lingbot-va)]
+- **Cosmos Policy** **[NVIDIA]** Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning · World Action Model / Visuomotor Control [[paper](https://arxiv.org/pdf/2601.16163)] [[project](https://research.nvidia.com/labs/dir/cosmos-policy/cosmos_policy_index.html)]
+- **PointWorld** **[Stanford]** PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation · 3D World Model / Robotic Manipulation [[paper](https://arxiv.org/abs/2601.03782)] [[project](https://point-world.github.io/)]
+- **InternVLA-A1** **[Shanghai AI Lab]** InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation · World Model / VLA / Visual Foresight [[paper](https://arxiv.org/abs/2601.02456)] [[project](https://internrobotics.github.io/internvla-a1.github.io/)]
+
+### 2025
+
+- **Motus** **[Tsinghua University]** Motus: A Unified Latent Action World Model · Latent Action World Model [[paper](https://arxiv.org/pdf/2512.13030)] [[project](https://motus-robotics.github.io/motus)]
+- **RynnVLA-002** **[Alibaba DAMO Academy]** RynnVLA-002: A Unified Vision-Language-Action and World Model · Unified VLA / World Model [[paper](https://arxiv.org/pdf/2511.17502)] [[project](https://github.com/alibaba-damo-academy/RynnVLA-002)]
+- **WorldVLA** **[Alibaba DAMO Academy]** WorldVLA: Towards Autoregressive Action World Model · Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)]
+- **UVA** **[Stanford]** Unified Video Action Model · Unified Video-Action Model / Policy Learning / Dynamics Modeling [[paper](https://arxiv.org/abs/2503.00200)] [[project](https://unified-video-action-model.github.io/)]
+- **3DFlowAction** **[3DFlowAction Team]** 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model · Geometric World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/pdf/2506.06199)] [[project](https://github.com/Hoyyyaard/3DFlowAction/)]
+- **LaPA** **[KAIST]** Latent Action Pretraining from Videos · Latent Action Model / Video Pretraining [[paper](https://arxiv.org/pdf/2410.11758)] [[project](https://latentactionpretraining.github.io/)]
+
+### 2024
+
+- **VLP** **[Yilun Du]** Video Language Planning · Video World Model / Planning [[paper](https://arxiv.org/pdf/2310.10625)] [[project](https://video-language-planning.github.io/)]
+
+### 2023
+
+- **UniPi** **[Google Research]** Learning Universal Policies via Text-Guided Video Generation · Text-Guided Video Policy / World Model [[paper](https://arxiv.org/pdf/2302.00111)] [[project](https://research.google/blog/unipi-learning-universal-policies-via-text-guided-video-generation/)]
 
 ## Agentic Embodied AI & Embodied MLLM
 
@@ -162,40 +195,6 @@ Example:
 ### 2021
 
 - **CALVIN** **[University of Freiburg]** CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks · Benchmark / Language-Conditioned Long-Horizon Manipulation [[paper](https://arxiv.org/abs/2112.03227)] [[project](http://calvin.cs.uni-freiburg.de/)]
-
-## World Models
-
-### 2026
-
-- **EgoWAM** **[Georgia Tech]** EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data · World Action Model / Egocentric Human Data / Human-to-Robot Transfer [[paper](https://arxiv.org/abs/2607.08436)] [[project](https://gatech-rl2.github.io/egowam.github.io/)]
-- **MolmoMotion** **[Allen AI / UW]** MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction · 3D Motion Forecasting / World Model / Robot Manipulation Transfer [[paper](https://arxiv.org/abs/2606.18558)] [[project](-)]
-- **μ0** **[University of Maryland]** μ0: A Scalable 3D Interaction-Trace World Model · 3D Interaction-Trace World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/abs/2606.13769)] [[project](-)]
-- **MotuBrain** **[MotuBrain Team]** MotuBrain: An Advanced World Action Model for Robot Control · World Action Model / Robot Control / Real-World Deployment [[paper](https://arxiv.org/abs/2604.27792)] [[project](-)]
-- **GigaWorld-Policy** **[OpenGigaAI]** GigaWorld-Policy: An Efficient Action-Centered World-Action Model · World Action Model / Action-Centered Policy [[paper](https://arxiv.org/pdf/2603.17240)] [[project](https://gigaai-research.github.io/GigaWorld-Policy/)]
-- **Fast-WAM** **[Tsinghua University]** Fast-WAM: Do World Action Models Need Test-time Future Imagination? · World Action Model / Policy Inference [[paper](https://arxiv.org/pdf/2603.16666)] [[project](https://yuantianyuan01.github.io/FastWAM/)]
-- **DiT4DiT** **[Mondo Robotics]** DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control · World Model / Robot Control [[paper](https://arxiv.org/pdf/2603.10448)] [[project](https://dit4dit.github.io/)]
-- **DreamZero** **[NVIDIA]** World Action Models are Zero-shot Policies · World Action Model / Zero-shot Policy [[paper](https://arxiv.org/pdf/2602.15922)] [[project](https://dreamzero0.github.io/)]
-- **LingBot-VA** **[LingBot Team]** Causal World Modeling for Robot Control · World Model / Robot Control [[paper](https://arxiv.org/pdf/2601.21998)] [[project](https://github.com/robbyant/lingbot-va)]
-- **Cosmos Policy** **[NVIDIA]** Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning · World Action Model / Visuomotor Control [[paper](https://arxiv.org/pdf/2601.16163)] [[project](https://research.nvidia.com/labs/dir/cosmos-policy/cosmos_policy_index.html)]
-- **PointWorld** **[Stanford]** PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation · 3D World Model / Robotic Manipulation [[paper](https://arxiv.org/abs/2601.03782)] [[project](https://point-world.github.io/)]
-- **InternVLA-A1** **[Shanghai AI Lab]** InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation · World Model / VLA / Visual Foresight [[paper](https://arxiv.org/abs/2601.02456)] [[project](https://internrobotics.github.io/internvla-a1.github.io/)]
-
-### 2025
-
-- **Motus** **[Tsinghua University]** Motus: A Unified Latent Action World Model · Latent Action World Model [[paper](https://arxiv.org/pdf/2512.13030)] [[project](https://motus-robotics.github.io/motus)]
-- **RynnVLA-002** **[Alibaba DAMO Academy]** RynnVLA-002: A Unified Vision-Language-Action and World Model · Unified VLA / World Model [[paper](https://arxiv.org/pdf/2511.17502)] [[project](https://github.com/alibaba-damo-academy/RynnVLA-002)]
-- **WorldVLA** **[Alibaba DAMO Academy]** WorldVLA: Towards Autoregressive Action World Model · Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)]
-- **UVA** **[Stanford]** Unified Video Action Model · Unified Video-Action Model / Policy Learning / Dynamics Modeling [[paper](https://arxiv.org/abs/2503.00200)] [[project](https://unified-video-action-model.github.io/)]
-- **3DFlowAction** **[3DFlowAction Team]** 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model · Geometric World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/pdf/2506.06199)] [[project](https://github.com/Hoyyyaard/3DFlowAction/)]
-- **LaPA** **[KAIST]** Latent Action Pretraining from Videos · Latent Action Model / Video Pretraining [[paper](https://arxiv.org/pdf/2410.11758)] [[project](https://latentactionpretraining.github.io/)]
-
-### 2024
-
-- **VLP** **[Video Language Planning Team]** Video Language Planning · Video World Model / Planning [[paper](https://arxiv.org/pdf/2310.10625)] [[project](https://video-language-planning.github.io/)]
-
-### 2023
-
-- **UniPi** **[Google Research]** Learning Universal Policies via Text-Guided Video Generation · Text-Guided Video Policy / World Model [[paper](https://arxiv.org/pdf/2302.00111)] [[project](https://research.google/blog/unipi-learning-universal-policies-via-text-guided-video-generation/)]
 
 ## Data and Teleoperation
 
