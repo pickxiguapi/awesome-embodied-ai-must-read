@@ -183,6 +183,7 @@ Example:
 - **Motus** **[Tsinghua University]** Motus: A Unified Latent Action World Model · Latent Action World Model [[paper](https://arxiv.org/pdf/2512.13030)] [[project](https://motus-robotics.github.io/motus)]
 - **RynnVLA-002** **[Alibaba DAMO Academy]** RynnVLA-002: A Unified Vision-Language-Action and World Model · Unified VLA / World Model [[paper](https://arxiv.org/pdf/2511.17502)] [[project](https://github.com/alibaba-damo-academy/RynnVLA-002)]
 - **WorldVLA** **[Alibaba DAMO Academy]** WorldVLA: Towards Autoregressive Action World Model · Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)]
+- **UVA** **[Stanford]** Unified Video Action Model · Unified Video-Action Model / Policy Learning / Dynamics Modeling [[paper](https://arxiv.org/abs/2503.00200)] [[project](https://unified-video-action-model.github.io/)]
 - **3DFlowAction** **[3DFlowAction Team]** 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model · Geometric World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/pdf/2506.06199)] [[project](https://github.com/Hoyyyaard/3DFlowAction/)]
 - **LaPA** **[KAIST]** Latent Action Pretraining from Videos · Latent Action Model / Video Pretraining [[paper](https://arxiv.org/pdf/2410.11758)] [[project](https://latentactionpretraining.github.io/)]
 
