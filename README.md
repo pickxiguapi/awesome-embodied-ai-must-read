@@ -139,14 +139,14 @@ Example:
 - **SIMPLE** **[USC]** SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation · Simulator / Benchmark / Humanoid Loco-manipulation [[paper](https://arxiv.org/abs/2606.08278)] [[project](https://github.com/physical-superintelligence-lab/SIMPLE)]
 - **RoboLab** **[NVIDIA]** RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies · Simulator / Benchmark / Generalist Robot Policies [[paper](https://arxiv.org/abs/2604.09860)] [[project](https://research.nvidia.com/labs/srl/projects/robolab/index.html)]
 - **EBench** **[Shanghai AI Lab]** EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies · Benchmark / Generalist Mobile Manipulation Evaluation [[paper](https://arxiv.org/abs/2606.18239)] [[project](https://internrobotics.github.io/EBench-home/)]
-- **ManipArena** **[Sun Yat-sen University]** ManipArena: Comprehensive Real-World Evaluation of Reasoning-Oriented Generalist Robot Manipulation · Benchmark / Real Device / Real-World Evaluation [[paper](https://arxiv.org/abs/2603.28545)] [[project](-)]
-- **ManipulationNet** **[ManipulationNet Team]** ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning · Benchmark / Public Real Device Evaluation / Robot Manipulation [[paper](https://arxiv.org/abs/2603.04363)] [[project](https://manipulation-net.org/)]
+- **ManipArena** **[Sun Yat-sen University]** ManipArena: Comprehensive Real-World Evaluation of Reasoning-Oriented Generalist Robot Manipulation · Benchmark / *Real Robot* / Real-World Evaluation [[paper](https://arxiv.org/abs/2603.28545)] [[project](-)]
+- **ManipulationNet** **[ManipulationNet Team]** ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning · Benchmark / *Real Robot* / Public Evaluation / Robot Manipulation [[paper](https://arxiv.org/abs/2603.04363)] [[project](https://manipulation-net.org/)]
 - **RoboCasa365** **[UT Austin]** RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots · Simulator / Benchmark / Household Mobile Manipulation [[paper](https://arxiv.org/abs/2603.04356)] [[project](https://robocasa.ai/)]
 
 ### 2025
 
 - **LIBERO-Plus** **[Fudan University]** LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models · Benchmark / VLA Robustness Analysis [[paper](https://arxiv.org/abs/2510.13626)] [[project](https://sylvestf.github.io/LIBERO-plus/)]
-- **RoboArena** **[UC Berkeley]** RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies · Benchmark / Real-World Distributed Evaluation [[paper](https://arxiv.org/abs/2506.18123)] [[project](https://robo-arena.github.io/)]
+- **RoboArena** **[UC Berkeley]** RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies · Benchmark / *Real Robot* / Distributed Evaluation [[paper](https://arxiv.org/abs/2506.18123)] [[project](https://robo-arena.github.io/)]
 - **RoboTwin 2.0** **[SJTU]** RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation · Data Generator / Benchmark / Bimanual Manipulation [[paper](https://arxiv.org/pdf/2506.18088)] [[project](https://robotwin-platform.github.io/)]
 
 ### 2024
