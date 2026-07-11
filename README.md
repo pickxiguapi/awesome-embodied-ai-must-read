@@ -77,6 +77,7 @@ Example:
 
 ### 2025
 
+- **Human-to-Robot Transfer** **[Physical Intelligence / Georgia Tech]** Emergence of Human to Robot Transfer in Vision-Language-Action Models · VLA / Human-to-Robot Transfer / Cross-Embodiment [[paper](https://www.pi.website/download/human_to_robot.pdf)] [[project](https://www.pi.website/research/human_to_robot)]
 - **RynnVLA-002** **[Alibaba DAMO Academy]** RynnVLA-002: A Unified Vision-Language-Action and World Model · Unified VLA / World Model [[paper](https://arxiv.org/pdf/2511.17502)] [[project](https://github.com/alibaba-damo-academy/RynnVLA-002)]
 - **Evo-1** **[Shanghai Jiao Tong University]** Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment · Lightweight VLA / Efficient Deployment [[paper](https://arxiv.org/abs/2511.04555)] [[project](https://github.com/MINT-SJTU/Evo-1)]
 - **X-VLA** **[Tsinghua University]** X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model · Cross-Embodiment VLA [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)]
