@@ -46,6 +46,15 @@ Example:
 
 ## Vision-Language-Action Models
 
+- **Hy-Embodied-0.5-VLA** **[2026]** **[Tencent]** Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack · VLA / Real-World Robot Learning Stack [[paper](https://arxiv.org/pdf/2606.14409v1)] [[project](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla)]
+- **Qwen-VLA** **[2026]** **[Qwen]** Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments · Unified VLA / Cross-Embodiment [[paper](https://arxiv.org/pdf/2605.30280)] [[project](https://github.com/QwenLM/Qwen-VLA)]
+- **GENE-26.5** **[2026]** **[Genesis]** GENE-26.5: Advancing Robotic Manipulation to Human Level · Embodied Foundation Model / Robotic Manipulation [[paper](-)] [[project](https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level)]
+- **GEN-1** **[2026]** **[Generalist AI]** GEN-1: Scaling Embodied Foundation Models to Mastery · Embodied Foundation Model / Physical Interaction [[paper](-)] [[project](https://generalistai.com/blog/apr-02-2026-GEN-1)]
+- **ABot-M0** **[2026]** **[AMap Group]** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning · VLA / Action Manifold Learning [[paper](https://arxiv.org/pdf/2602.11236)] [[project](https://amap-cvlab.github.io/ABot-Manipulation/)]
+- **RDT2** **[2026]** **[Tsinghua University et al.]** RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization · VLA / Cross-Embodiment Generalization [[paper](https://arxiv.org/pdf/2602.03310)] [[project](https://rdt-robotics.github.io/rdt2/)]
+- **GR00T N1.7** **[2026]** **[NVIDIA]** GR00T N1.7 · Humanoid Foundation Model / VLA [[paper](-)] [[project](https://huggingface.co/nvidia/GR00T-N1.7-3B)]
+- **LingBot-VLA** **[2026]** **[Ant Group]** A Pragmatic VLA Foundation Model · VLA / Real-World Robot Learning [[paper](https://arxiv.org/pdf/2601.18692)] [[project](https://technology.robbyant.com/lingbot-vla/)]
+- **Being-H0.5** **[2026]** **[BeingBeyond]** Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization · VLA / Human-Centric Robot Learning [[paper](https://arxiv.org/pdf/2601.12993)] [[project](https://research.beingbeyond.com/being-h05)]
 - **BagelVLA** **[2026]** **[BagelVLA Team]** BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation · VLA / Long-Horizon Manipulation [[paper](https://arxiv.org/abs/2602.09849)] [[project](-)]
 - **RynnVLA-002** **[2025]** **[Alibaba DAMO Academy]** RynnVLA-002: A Unified Vision-Language-Action and World Model · Unified VLA / World Model [[paper](https://arxiv.org/pdf/2511.17502)] [[project](https://github.com/alibaba-damo-academy/RynnVLA-002)]
 - **X-VLA** **[2025]** **[Tsinghua University]** X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model · Cross-Embodiment VLA [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)]
