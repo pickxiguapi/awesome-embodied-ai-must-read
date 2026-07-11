@@ -149,12 +149,34 @@ Example:
 
 ## Agentic Embodied AI & Embodied MLLM
 
+### 2026
+
+- **ACE-Brain-0.5** **[ACE-Brain Team]** ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI · Embodied Foundation Model / Physical Agentic AI / Closed-Loop Reasoning [[paper](https://arxiv.org/abs/2607.04426)] [[project](-)]
+- **Cosmos 3** **[NVIDIA]** Cosmos 3: Omnimodal World Models for Physical AI · Omnimodal Physical AI / World Model / Embodied Reasoning [[paper](https://arxiv.org/abs/2606.02800)] [[project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)]
+- **DepthVLM** **[DepthVLM Team]** Unlocking Dense Metric Depth Estimation in VLMs · VLM / Dense Metric Depth / 3D Spatial Understanding [[paper](https://arxiv.org/abs/2605.15876)] [[project](-)]
+- **HY-Embodied-0.5** **[Tencent]** HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents · Embodied Foundation Model / Real-World Agent / Spatial-Temporal Reasoning [[paper](https://arxiv.org/abs/2604.07430)] [[project](https://github.com/Tencent-Hunyuan/HY-Embodied)]
+- **ACE-Brain-0** **[ACE-Brain Team]** ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments · Embodied MLLM / Spatial Intelligence / Universal Embodiment [[paper](https://arxiv.org/abs/2603.03198)] [[project](-)]
+- **RynnBrain** **[Alibaba DAMO Academy]** RynnBrain: Open Embodied Foundation Models · Embodied Foundation Model / Spatial-Temporal Reasoning / Planning [[paper](https://arxiv.org/abs/2602.14979)] [[project](-)]
+- **RoboInter** **[Shanghai AI Lab]** RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation · Intermediate Representation / Embodied VQA / VLA Bridge [[paper](https://arxiv.org/abs/2602.09973)] [[project](-)]
+- **RoboBrain 2.5** **[BAAI]** RoboBrain 2.5: Depth in Sight, Time in Mind · Embodied Foundation Model / 3D Spatial Reasoning / Temporal Modeling [[paper](https://arxiv.org/abs/2601.14352)] [[project](https://superrobobrain.github.io/)]
+- **Molmo2** **[Allen AI]** Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding · Open VLM / Video Understanding / Grounding [[paper](https://arxiv.org/abs/2601.10611)] [[project](https://molmo.allenai.org/)]
+
 ### 2025
 
+- **RoboTracer** **[Beihang University / BAAI]** RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics · Embodied VLM / Spatial Trace / Metric-Grounded Reasoning [[paper](https://arxiv.org/abs/2512.13660)] [[project](https://zhoues.github.io/RoboTracer/)]
+- **MiMo-Embodied** **[Xiaomi]** MiMo-Embodied: X-Embodied Foundation Model Technical Report · Embodied Foundation Model / Cross-Embodiment / Spatial Reasoning [[paper](https://arxiv.org/abs/2511.16518)] [[project](-)]
+- **Cambrian-S** **[NYU / Meta / Stanford]** Cambrian-S: Towards Spatial Supersensing in Video · Video VLM / Spatial Supersensing / World Modeling [[paper](https://arxiv.org/abs/2511.04670)] [[project](-)]
+- **DepthLM** **[Meta]** DepthLM: Metric Depth From Vision Language Models · VLM / Metric Depth / 3D Spatial Understanding [[paper](https://arxiv.org/abs/2509.25413)] [[project](-)]
+- **Embodied-R1** **[Tianjin University]** Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation · Embodied VLM / Reinforced Reasoning / Pointing [[paper](https://arxiv.org/abs/2508.13998)] [[project](https://embodied-r1.github.io/)]
 - **RoboBrain 2.0** **[BAAI]** RoboBrain 2.0 Technical Report · Embodied Foundation Model / Generalist Agent [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
 - **RoboRefer** **[Beihang University]** RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics · Embodied VLM / Spatial Reasoning [[paper](https://arxiv.org/pdf/2506.04308)] [[project](https://zhoues.github.io/RoboRefer/)]
 - **FSD** **[Tianjin University]** From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation · Embodied VLM / Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.08548)] [[project](https://embodied-fsd.github.io/)]
 - **Cosmos-Reason1** **[NVIDIA]** Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning · Embodied MLLM / Physical Reasoning [[paper](https://arxiv.org/pdf/2503.15558)] [[project](https://github.com/nvidia-cosmos/cosmos-reason1)]
+- **Molmo / PixMo** **[Allen AI]** Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models · Open VLM / Pointing / Grounding Data [[paper](https://arxiv.org/abs/2409.17146)] [[project](https://molmo.allenai.org/)]
+
+### 2024
+
+- **RoboPoint** **[University of Washington / NVIDIA / Allen AI]** RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics · Embodied VLM / Spatial Affordance / Grounding [[paper](https://arxiv.org/abs/2406.10721)] [[project](https://robo-point.github.io/)]
 
 ### 2023
 
