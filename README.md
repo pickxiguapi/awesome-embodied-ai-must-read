@@ -46,8 +46,30 @@ Example:
 
 ## Vision-Language-Action Models
 
-
-
+- **BagelVLA** **[2026]** **[BagelVLA Team]** BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation · VLA / Long-Horizon Manipulation [[paper](https://arxiv.org/abs/2602.09849)] [[project](-)]
+- **RynnVLA-002** **[2025]** **[Alibaba DAMO Academy]** RynnVLA-002: A Unified Vision-Language-Action and World Model · Unified VLA / World Model [[paper](https://arxiv.org/pdf/2511.17502)] [[project](https://github.com/alibaba-damo-academy/RynnVLA-002)]
+- **X-VLA** **[2025]** **[Tsinghua University]** X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model · Cross-Embodiment VLA [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)]
+- **InternVLA-M1** **[2025]** **[Shanghai AI Lab et al.]** InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy · Spatially Guided VLA [[paper](https://arxiv.org/pdf/2510.13778)] [[project](https://internrobotics.github.io/internvla-m1.github.io/)]
+- **Spatial Forcing** **[2025]** **[OpenHelix Team]** Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model · Spatial Alignment / VLA [[paper](https://arxiv.org/pdf/2510.12276)] [[project](https://spatial-forcing.github.io/)]
+- **VLA-0** **[2025]** **[NVIDIA]** VLA-0: Building State-of-the-Art VLAs with Zero Modification · VLA / Model Adaptation [[paper](https://arxiv.org/pdf/2510.13054)] [[project](https://vla0.github.io/)]
+- **EmbodiedOneVision** **[2025]** **[EO Robotics]** EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control · Interleaved VLA Pretraining [[paper](https://arxiv.org/pdf/2508.21112)] [[project](https://eo-robotics.ai/eo-1)]
+- **Action Chunking Flow** **[2025]** **[Physical Intelligence]** Real-Time Execution of Action Chunking Flow Policies · VLA / Real-Time Flow Policy [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
+- **Knowledge Insulation** **[2025]** **[Physical Intelligence]** Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better · Efficient VLA Training / Generalization [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://pi.website/research/knowledge_insulation)]
+- **π0.5** **[2025]** **[Physical Intelligence]** π0.5: A Vision-Language-Action Model with Open-World Generalization · VLA / Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)]
+- **GR00T N1** **[2025]** **[NVIDIA]** GR00T N1: An Open Foundation Model for Generalist Humanoid Robots · Humanoid Foundation Model / VLA [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://github.com/NVIDIA/Isaac-GR00T)]
+- **Gemini Robotics** **[2025]** **[Google DeepMind]** Gemini Robotics: Bringing AI into the Physical World · Robotics Foundation Model / VLA [[paper](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)] [[project](-)]
+- **FAST** **[2025]** **[Physical Intelligence]** FAST: Efficient Action Tokenization for Vision-Language-Action Models · Action Tokenization / VLA [[paper](https://arxiv.org/pdf/2501.09747)] [[project](-)]
+- **LLaVA-VLA** **[2025]** **[OpenHelix Team]** LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model · VLA [[paper](-)] [[project](https://github.com/OpenHelix-Team/LLaVA-VLA)]
+- **GEN-0** **[2025]** **[Generalist AI]** Embodied Foundation Models That Scale with Physical Interaction · Embodied Foundation Model / Physical Interaction [[paper](-)] [[project](https://generalistai.com/blog/nov-04-2025-GEN-0)]
+- **Wall-OSS** **[2025]** **[X Square Robot]** Wall-OSS: Igniting VLMs toward the Embodied Space · Embodied VLM / VLA [[paper](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)] [[project](https://x2robot.com/en/research/68bc2cde8497d7f238dde690)]
+- **CogACT** **[2024]** **[Microsoft Research et al.]** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation · Foundational VLA / Manipulation [[paper](https://www.arxiv.org/pdf/2411.19650)] [[project](https://cogact.github.io/)]
+- **π0** **[2024]** **[Physical Intelligence]** π0: A Vision-Language-Action Flow Model for General Robot Control · VLA Flow Model / General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)] [[project](https://www.physicalintelligence.company/blog/pi0)]
+- **RDT-1B** **[2024]** **[RDT Team]** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation · Diffusion Foundation Model / Bimanual Manipulation [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
+- **MiniVLA** **[2024]** **[Stanford ILIAD]** MiniVLA: A Better VLA with a Smaller Footprint · Compact VLA [[paper](https://ai.stanford.edu/blog/minivla/)] [[project](https://github.com/Stanford-ILIAD/openvla-mini)]
+- **Embodied CoT** **[2024]** **[Stanford et al.]** Robotic Control via Embodied Chain-of-Thought Reasoning · VLA / Embodied Reasoning [[paper](https://arxiv.org/pdf/2407.08693)] [[project](-)]
+- **OpenVLA** **[2024]** **[Stanford et al.]** OpenVLA: An Open-Source Vision-Language-Action Model · Open-Source VLA [[paper](https://arxiv.org/pdf/2406.09246)] [[project](https://openvla.github.io/)]
+- **Octo** **[2024]** **[UC Berkeley et al.]** Octo: An Open-Source Generalist Robot Policy · Generalist Robot Policy / VLA [[paper](https://arxiv.org/pdf/2405.12213)] [[project](https://octo-models.github.io/)]
+- **RT-2** **[2023]** **[Google DeepMind]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control · VLA / Robotic Control [[paper](https://arxiv.org/pdf/2307.15818)] [[project](https://robotics-transformer2.github.io/)]
 
 ## Agentic Embodied AI & Embodied MLLM
 
