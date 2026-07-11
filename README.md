@@ -38,6 +38,7 @@ Example:
 
 ## Foundations and Surveys
 
+- **World Model Survey** **[2026]** **[Bohan Hou et al.]** World Model for Robot Learning: A Comprehensive Survey · Survey / World Models for Robot Learning [[paper](https://arxiv.org/pdf/2605.00080)] [[project](-)]
 - **WAM Survey** **[2026]** **[Fudan University et al.]** World Action Models: The Next Frontier in Embodied AI · Survey / World Action Models [[paper](https://arxiv.org/abs/2605.12090)] [[project](-)]
 - **VLA Anatomy** **[2025]** **[Imperial College London et al.]** An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/VLA-Survey-Anatomy/)]
 - **Action Tokenization Survey** **[2025]** **[PKU-PsiBot]** A Survey on Vision-Language-Action Models: An Action Tokenization Perspective · Survey / Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.01925)] [[project](-)]
