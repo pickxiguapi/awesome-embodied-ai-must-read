@@ -57,6 +57,7 @@ Example:
 
 ### 2026
 
+- **LingBot-VLA 2.0** **[Ant Group]** From Foundation to Application: Improving VLA Models in Practice · VLA / Real-World Application / Cross-Embodiment [[paper](https://arxiv.org/abs/2607.06403)] [[project](https://technology.robbyant.com/lingbot-vla-v2)]
 - **InternVLA-A1.5** **[Shanghai AI Lab]** InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization · VLA / Latent Foresight / Compositional Generalization [[paper](https://arxiv.org/abs/2607.04988)] [[project](-)]
 - **Hy-Embodied-0.5-VLA** **[Tencent]** Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack · VLA / Real-World Robot Learning Stack [[paper](https://arxiv.org/pdf/2606.14409v1)] [[project](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla)]
 - **Qwen-RobotManip** **[Qwen]** Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models · VLA / Robotic Manipulation Foundation Model [[paper](https://arxiv.org/abs/2606.17846)] [[project](-)]
