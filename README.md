@@ -167,6 +167,7 @@ Example:
 
 ### 2026
 
+- **EgoWAM** **[Georgia Tech]** EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data · World Action Model / Egocentric Human Data / Human-to-Robot Transfer [[paper](https://arxiv.org/abs/2607.08436)] [[project](https://gatech-rl2.github.io/egowam.github.io/)]
 - **μ0** **[University of Maryland]** μ0: A Scalable 3D Interaction-Trace World Model · 3D Interaction-Trace World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/abs/2606.13769)] [[project](-)]
 - **MotuBrain** **[MotuBrain Team]** MotuBrain: An Advanced World Action Model for Robot Control · World Action Model / Robot Control / Real-World Deployment [[paper](https://arxiv.org/abs/2604.27792)] [[project](-)]
 - **GigaWorld-Policy** **[OpenGigaAI]** GigaWorld-Policy: An Efficient Action-Centered World-Action Model · World Action Model / Action-Centered Policy [[paper](https://arxiv.org/pdf/2603.17240)] [[project](https://gigaai-research.github.io/GigaWorld-Policy/)]
