@@ -116,6 +116,7 @@ Example:
 
 - **LingBot-VA 2.0** **[Ant Group]** Native Video-Action Pretraining for Generalizable Robot Control · Video-Action Foundation Model / World Action Model / Robot Control [[paper](https://arxiv.org/abs/2607.08639)] [[project](-)]
 - **EgoWAM** **[Georgia Tech]** EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data · World Action Model / Egocentric Human Data / Human-to-Robot Transfer [[paper](https://arxiv.org/abs/2607.08436)] [[project](https://gatech-rl2.github.io/egowam.github.io/)]
+- **RynnWorld-4D** **[Alibaba DAMO Academy]** RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation · 4D World Model / RGB-D-Flow Prediction / Robotic Manipulation [[paper](https://arxiv.org/abs/2607.06559)] [[project](-)]
 - **MolmoMotion** **[Allen AI / UW]** MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction · 3D Motion Forecasting / World Model / Robot Manipulation Transfer [[paper](https://arxiv.org/abs/2606.18558)] [[project](-)]
 - **μ0** **[University of Maryland]** μ0: A Scalable 3D Interaction-Trace World Model · 3D Interaction-Trace World Model / Cross-Embodiment Manipulation [[paper](https://arxiv.org/abs/2606.13769)] [[project](-)]
 - **WALL-WM** **[X Square Robot]** WALL-WM: Carving World Action Modeling at the Event Joints · World Action Model / Event-Grounded VLA Pretraining [[paper](https://arxiv.org/abs/2606.01955)] [[project](-)]
@@ -152,10 +153,16 @@ Example:
 ### 2026
 
 - **ACE-Brain-0.5** **[ACE-Brain Team]** ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI · Embodied Foundation Model / Physical Agentic AI / Closed-Loop Reasoning [[paper](https://arxiv.org/abs/2607.04426)] [[project](-)]
+- **ASPIRE** **[NVIDIA]** ASPIRE: Agentic Skills Discovery for Robotics · Coding Agent / Skill Discovery / Code-as-Policy [[paper](https://arxiv.org/abs/2607.00272)] [[project](https://research.nvidia.com/labs/gear/aspire/)]
+- **Vesta** **[NVIDIA]** Vesta: A Generalist Embodied Reasoning Model · Generalist Embodied Reasoning / Spatial Grounding / Long-Horizon Planning [[paper](https://arxiv.org/pdf/2606.20905v1)] [[project](-)]
+- **RATs** **[UC Berkeley / Impossible Research]** Playful Agentic Robot Learning · Agentic Robot Learning / Self-Directed Play / Skill Library [[paper](https://playful-rats.github.io/assets/papers/rats-paper.pdf)] [[project](https://playful-rats.github.io/)]
+- **RHO** **[UC Berkeley]** RHO: Your Coding Agent is Secretly a Roboticist · Coding Agent / Repositories-as-Policies / Robot Control [[paper](https://arxiv.org/abs/2606.16458)] [[project](https://rho-robotics.github.io/)]
 - **Embodied-R1.5** **[Tencent Hunyuan]** Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models · Embodied Foundation Model / Physical Intelligence / General Robotic Manipulation [[paper](https://arxiv.org/abs/2606.11324)] [[project](-)]
+- **VoLo** **[NVIDIA / University of Michigan]** VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation · Physical Orchestration / VLM Agent / Long-Horizon Manipulation [[paper](https://arxiv.org/pdf/2606.07723)] [[project](https://chicychen.github.io/VoLo/)]
 - **Cosmos 3** **[NVIDIA]** Cosmos 3: Omnimodal World Models for Physical AI · Omnimodal Physical AI / World Model / Embodied Reasoning [[paper](https://arxiv.org/abs/2606.02800)] [[project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)]
 - **DepthVLM** **[DepthVLM Team]** Unlocking Dense Metric Depth Estimation in VLMs · VLM / Dense Metric Depth / 3D Spatial Understanding [[paper](https://arxiv.org/abs/2605.15876)] [[project](-)]
 - **HY-Embodied-0.5** **[Tencent]** HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents · Embodied Foundation Model / Real-World Agent / Spatial-Temporal Reasoning [[paper](https://arxiv.org/abs/2604.07430)] [[project](https://github.com/Tencent-Hunyuan/HY-Embodied)]
+- **CaP-X** **[Stanford / UC Berkeley / UT Austin / NVIDIA]** CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation · Coding Agent Benchmark / Code-as-Policy / Robot Manipulation [[paper](https://arxiv.org/abs/2603.22435)] [[project](-)]
 - **ACE-Brain-0** **[ACE-Brain Team]** ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments · Embodied MLLM / Spatial Intelligence / Universal Embodiment [[paper](https://arxiv.org/abs/2603.03198)] [[project](-)]
 - **RynnBrain** **[Alibaba DAMO Academy]** RynnBrain: Open Embodied Foundation Models · Embodied Foundation Model / Spatial-Temporal Reasoning / Planning [[paper](https://arxiv.org/abs/2602.14979)] [[project](-)]
 - **RoboInter** **[Shanghai AI Lab]** RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation · Intermediate Representation / Embodied VQA / VLA Bridge [[paper](https://arxiv.org/abs/2602.09973)] [[project](-)]
@@ -165,6 +172,7 @@ Example:
 ### 2025
 
 - **RoboTracer** **[Beihang University / BAAI]** RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics · Embodied VLM / Spatial Trace / Metric-Grounded Reasoning [[paper](https://arxiv.org/abs/2512.13660)] [[project](https://zhoues.github.io/RoboTracer/)]
+- **BAGEL** **[ByteDance Seed]** BAGEL: The Open-Source Unified Multimodal Model · Unified Multimodal Model / Understanding and Generation / Embodied Reasoning [[paper](https://arxiv.org/abs/2505.14683)] [[project](https://bagel-ai.org/)]
 - **MiMo-Embodied** **[Xiaomi]** MiMo-Embodied: X-Embodied Foundation Model Technical Report · Embodied Foundation Model / Cross-Embodiment / Spatial Reasoning [[paper](https://arxiv.org/abs/2511.16518)] [[project](-)]
 - **Cambrian-S** **[NYU / Meta / Stanford]** Cambrian-S: Towards Spatial Supersensing in Video · Video VLM / Spatial Supersensing / World Modeling [[paper](https://arxiv.org/abs/2511.04670)] [[project](-)]
 - **DepthLM** **[Meta]** DepthLM: Metric Depth From Vision Language Models · VLM / Metric Depth / 3D Spatial Understanding [[paper](https://arxiv.org/abs/2509.25413)] [[project](-)]
@@ -201,6 +209,7 @@ Example:
 
 ### 2025
 
+- **PolaRiS** **[University of Washington / Princeton / UC Berkeley / Stanford / Toyota Research Institute / USC / Cornell / Physical Intelligence]** PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies · Real-to-Sim Evaluation / Simulator / Generalist Robot Policies [[paper](https://arxiv.org/abs/2512.16881)] [[project](https://polaris-evals.github.io/)]
 - **LIBERO-Plus** **[Fudan University]** LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models · Benchmark / VLA Robustness Analysis [[paper](https://arxiv.org/abs/2510.13626)] [[project](https://sylvestf.github.io/LIBERO-plus/)]
 - **RoboArena** **[UC Berkeley]** RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies · Benchmark / *Real Robot* / Distributed Evaluation [[paper](https://arxiv.org/abs/2506.18123)] [[project](https://robo-arena.github.io/)]
 - **RoboTwin 2.0** **[SJTU]** RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation · Data Generator / Benchmark / Bimanual Manipulation [[paper](https://arxiv.org/pdf/2506.18088)] [[project](https://robotwin-platform.github.io/)]
